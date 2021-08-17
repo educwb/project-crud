@@ -1,0 +1,15 @@
+npm init -y
+git init 
+npm install nodemon --save-dev
+npm install express 
+npm install mongoose
+
+.gitignore
+  node_modules
+
+CRIAR REPOSITÓRIO GITHUB
+- copiar comando e colar no terminal
+- confirmar com 'git status'
+git remote add origin git@github.com:educwb/project-crud.git
+git status 
+git add .
